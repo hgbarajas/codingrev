@@ -1,0 +1,126 @@
+ul::marker {
+    content:'🦜';
+    color: rgb(190, 173, 124);
+}
+
+html {
+    background-color:#28363D;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
+
+/* 5.2 font family font style */
+
+* {
+    color: white;
+
+}
+
+
+.color {
+    color:white;
+}
+
+.placeh1 {
+    color: rgb(248, 214, 141);
+}
+
+
+.defbox {
+    background-color: #658B6F;
+    height: 220px;
+    text-align: center;
+    border-width:5px;
+    border-color:black;
+    border-style:outset;
+    border-radius:0px;
+    padding:5px;
+    font-size:20px;
+}
+
+.button {
+    color: rgb(79, 120, 126);
+    border-width: 4px;
+}
+
+/* 5.2 font size */
+
+.table {
+    margin-left:38%;
+    border-collapse: separate;
+    border-spacing: 20px 0;
+}
+
+
+.foodsection {
+    background-color: #6D9197;
+    height: 400px;
+    text-align: center;
+    border-width:5px;
+    border-color:black;
+    border-style:outset;
+    border-radius:0px;
+    padding:5px;
+    align-items:center;
+    font-size: 30px;
+}
+/* 5.3 borders and background properties 5.2 font size 5.4 unit of measurement*/
+
+.tipsbox {
+    background-color:#28363D;
+    height:400px;
+    text-align: center;
+    border-width:0px;
+    border-color:#28363D;
+    border-style:outset;
+    border-radius:0px;
+    padding:5px;
+    align-items:center;
+    font-size: 20px;
+    margin-top: 40px;
+}
+/* 5.3 borders and background properties 5.2 font size 5.4 unit of measurement 6.1 text resizing*/
+.tipsbox2 {
+    background-color:#28363D;
+    height:100px;
+    text-align: center;
+    border-width:0px;
+    border-color:#28363D;
+    border-style:outset;
+    border-radius:0px;
+    padding:5px;
+    align-items:center;
+    font-size: 25px;
+    margin-top: 40px;
+    
+}
+/* 5.3 borders and background properties 5.2 font size 5.4 unit of measurement 6.1 text resizing*/
+.placevisit {
+    background-color:#99AEAD;
+    height:400px;
+    text-align: center;
+    border-width:5px;
+    border-color:black;
+    border-style:outset;
+    border-radius:0px;
+    padding:5px;
+    align-items:center;
+    font-size: 20px;
+    margin-top: 40px;
+}
+/* 5.3 borders and background properties 5.2 font size 5.4 unit of measurement 6.1 text resizing*/
+
+.vidaud {
+    height:600px;
+    text-align: center;
+    padding:5px;
+    align-items:center;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.firstline {
+    color:#658B6F;
+}
+
+/* 6.1 seperation of structuyre CSS */
